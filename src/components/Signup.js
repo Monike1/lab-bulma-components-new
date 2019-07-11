@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './Navbar';
 import FormField from './FormField';
 import CoolButton from './CoolButton';
 

@@ -4,7 +4,6 @@ import Container from './components/Container';
 import Navbar from './components/Navbar';
 import Signup from './components/Signup';
 import Message from './components/Message';
-import MessageBody from './components/MessageBody';
 
 
 function App() {
